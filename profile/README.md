@@ -1,6 +1,6 @@
 # OrderlyMeds
 
-![OrderlyMeds Logo](./images/OrderlyMedsLogo.jpg)
+![OrderlyMeds Logo](./profile/images/OrderlyMedsLogo.jpg)
 
 https://orderlymeds.com
 
