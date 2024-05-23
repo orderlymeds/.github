@@ -1,6 +1,6 @@
 # OrderlyMeds
 
-![OrderlyMeds Logo](./profile/images/OrderlyMedsLogo.jpg)
+<img src="https://raw.githubusercontent.com/orderlymeds/.github/main/profile/images/OrderlyMedsLogo.jpg" width="480" /> 
 
 https://orderlymeds.com
 
