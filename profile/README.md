@@ -1,15 +1,14 @@
-# OrderlyMeds
 
-<img src="https://raw.githubusercontent.com/orderlymeds/.github/main/profile/images/OrderlyMedsLogo.jpg" width="480" /> 
+<img src="./images/om_horizontal.png" width="480" />
+
+# OrderlyMeds
 
 https://orderlymeds.com
 
-We are OrderlyMeds -- Doctor prescribed medications + weekly support tailored to you.
+Orderly Wellness is a holistic health and wellness organization providing products and services for US Consumers interested in weight loss. Our wheel of wellness includes; nutritional support, mental health therapy, fitness coaching, spiritual support and medication/supplements.
 
-- No Hidden Fees
-- Text-Based Consults
-- Easy Approvals
-- Amazing Results
-- Doc Consult within 24 hours
-- Delivered within 7 days
-- No Insurance Necessary
+OrderlyMeds.com is our first product a telemedicine platform connecting US consumers with a national network of providers and pharmacies that provide prescription medical weight loss treatments.
+
+## We are hiring
+
+See: https://github.com/orderlymeds/hiring
